@@ -1,0 +1,18 @@
+{
+  "name": "Tvastra static",
+  "version": "1.0.0",
+  "description": "Static TVastra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@workspace.konfinity.com:html-css-demo/tvastra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
